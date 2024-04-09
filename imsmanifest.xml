@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5hI4JfYuUrY" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Digital Evidence Awareness</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Digital_Evidence_Awareness_ORG">
+    <organization identifier="Digital_Evidence_Awareness_ORG">
+      <title>Digital Evidence Awareness</title>
+      <item identifier="Digital_Evidence_Awareness_Promo_SCO" isvisible="true" identifierref="__5hI4JfYuUrY_RES">
+        <title>Digital Evidence Awareness</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5hI4JfYuUrY_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/index.html" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/btAFMyT4j9xyrAUW.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/Case.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/cd drive.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/CPU.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/fan.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/hard drive.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/Inside computer.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/Instruction Icon.svg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/Memory.mp4" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/Memory.png" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/motherboard.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/power supply.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/quote_background.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/RAM.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/story.html" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/video card.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/analytics-frame.html" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/meta.xml" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/player-interface.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/story.html" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/threeSixty.json" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/data/css/output.min.css" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/data/js/5vidI9OYswF.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/data/js/data.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/data/js/frame.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/data/js/paths.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/scripts/bootstrapper.min.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/scripts/frame.desktop.min.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/scripts/frame.mobile.min.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/scripts/slides.min.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/stylesheets/desktop.min.css" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/stylesheets/mobile.min.css" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/mobile/6elExXi1yty_80_P_341_0_1364_1364_DX566_DY566_CX297_CY297.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/mobile/6rIVS35hTTA_80_DX1440_DY1440_CX1133_CY755.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/mobile/Shape6CSfPNsyh8Q.png" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/mobile/txt__default_5t7PrQmGo2s.png" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/story_content/thumbnail.jpg" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/assets/w6OqJYqvM8Ci1lse/story_content/user.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/icomoon.css" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/lzwcompress.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/player-0.0.11.min.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/icomoon.ttf" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/icomoon.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Inter-Black.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Inter-Bold.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Inter-Light.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Inter-Medium.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Inter-Regular.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Roboto-Black.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Roboto-Bold.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Roboto-Italic.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Roboto-Light.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/fonts/Roboto-Regular.woff" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/714fc133.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/976bee94.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/b176ca34.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/c1257364.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/c16e7dd3.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/d7134136.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/eab04a62.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/entry.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/mondrian/f743b1be.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/11732e6a.css" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/18f3f11c.css" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/20be7de8.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/27e7283a.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/70fb8797.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/71363060.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/87f0cf0f.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/lib/rise/eb9bd09f.js" />
+      <file href="story_content/WebObjects/5qTP0eV24EY/locales/und.js" />
+      <file href="mobile/5qTP0eV24EY5qbgjchfZni{Width=700, Height=520}Light.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/65W4ZtBZhjD.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
